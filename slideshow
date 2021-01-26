@@ -1,5 +1,4 @@
 <html> 
-<head>
     <style>
 #slideshow {
   margin: 80px auto;
@@ -18,7 +17,6 @@
   bottom: 10px;
 }
     </style>
-</head>
 <body>
     <div id="slideshow">
    <div>
